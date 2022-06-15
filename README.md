@@ -1,5 +1,7 @@
 # Welcome to My Github Profile  🎉 🎉 
 
+![Vimbayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vimbayinashe&show_icons=true&theme=aura)
+
 ### About
 My name is Vimbayinashe but you can call me Vimbayi. I am a full stack developer based in Gothenburg, Sweden 🇸🇪.
 
@@ -18,11 +20,16 @@ My name is Vimbayinashe but you can call me Vimbayi. I am a full stack developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu"  alt="Ubuntu" width="50" height="50"/>&nbsp;
-  
 </div>
 
 ### Work in progress 👷‍♀️
 I am currently learning about AWS cloud services <span><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="20" height="20"/>&nbsp;</span> and improving my skills in CI/CD and microservices.
+
+---
+### My Stats 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vimbayinashe&theme=blue-green)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimbayinashe&layout=compact&theme=aura&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
