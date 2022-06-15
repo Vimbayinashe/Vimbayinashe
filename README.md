@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+# Welcome to My Github Profile  🎉 🎉 
 
 ### About Me
 My name is Vimbayinashe but you can call me Vimbayi. I am a full stack developer based in Gothenburg, Sweden 🇸🇪.
