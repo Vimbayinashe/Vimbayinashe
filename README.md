@@ -31,6 +31,10 @@ I am currently learning about AWS cloud services <span><img src="https://github.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimbayinashe&layout=compact&theme=aura&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/
+</div>
+
 ---
 
 ### Hobbies:  🚴‍♀️ , 🏃‍♀️ , 🧁 , 💃 , 🌳
@@ -50,11 +54,6 @@ I am currently learning about AWS cloud services <span><img src="https://github.
   </a>
 </div>
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/
-</div>
-
-  
 <!--
 **Vimbayinashe/Vimbayinashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
