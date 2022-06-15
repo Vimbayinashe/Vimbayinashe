@@ -1,6 +1,6 @@
 # Welcome to My Github Profile  🎉 🎉 
 
-### About Me
+### About
 My name is Vimbayinashe but you can call me Vimbayi. I am a full stack developer based in Gothenburg, Sweden 🇸🇪.
 
 ### Languages & Tools 🛠️
@@ -21,17 +21,18 @@ My name is Vimbayinashe but you can call me Vimbayi. I am a full stack developer
   
 </div>
 
-#### Work in progress 👷‍♀️
-I am currently learning about AWS cloud services and improving my skills in microservices deployment.
+### Work in progress 👷‍♀️
+I am currently learning about AWS cloud services <span><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="20" height="20"/>&nbsp;</span> and improving my skills in CI/CD and microservices.
 
-#### Hobbies:  🚴‍♀️ , 🏃‍♀️ , 🧁 , 💃 , 🌳
+---
 
-#### Fun facts ⚡: 
+### Hobbies:  🚴‍♀️ , 🏃‍♀️ , 🧁 , 💃 , 🌳
+
+### Fun facts ⚡
 - I speak English, Shona, Swedish, Ndebele and a little bit of French.
 - I enjoy challenging myself and trying out new activities! Some things that I have tried are hiking, canoeing, ice-skating & eating sushi 🍣 
 
-
-------
+---
 ### Contact Details:
 <div id="badges">
   <a href="https://www.linkedin.com/in/vimbayinashe-mandaza/">
